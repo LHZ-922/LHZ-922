@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <div align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=LHZ-922&show_icons=true&theme=transparent>
 </div>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zxfccmm4/github-readme-stats)
